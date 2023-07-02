@@ -13,6 +13,6 @@ Siga estas etapas para executar o microserviço customer localmente:
 3. Navegue até o diretório do projeto: `cd customer`
 4. Compile o projeto: `mvn clean package`
 5. Execute o microserviço: `java -jar target/customer.jar`
-6. O microserviço estará disponível em: `http://localhost:8079`
+6. O microserviço estará disponível em: `http://localhost:8081`
 
 
